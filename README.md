@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sagessedev
 - 👀 I’m interested in coding and web developement
-- 🌱 I’m currently learning Html, css and Javascript
-- 💞️ I’m looking to collaborate on creating of saas or web site to improve my skills in developement
-- 📫 How to reach me : mail : sagesseibanda296@gmail.com
+- 🌱 I’m currently learning Html, css and Javascript to frontend skills but I'm running to fullstack
+- 💞️ I’m looking to collaborate in creating of saas or web site to improve my skills in developement
+- 📫 How to reach me : mail : sagesseibanda296@gmail.com | Facebook, Instagram, Linkedin, Twitter : Sagesse Ibanda
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
